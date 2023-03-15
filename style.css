@@ -1,0 +1,46 @@
+.kata1 {
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+    border-radius: 50%;
+}
+
+.kata2 {
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+    border-radius: 20% 20% 0 0;
+}
+
+.kata3 {
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+    border-radius: 0 0 50% 50%;
+}
+.kata4 {
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+    border-radius: 20px 20% 20px 90%;
+}
+
+.kata5 {
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+    border-radius: 90% 0px 90% 0px ;
+}
+hr {
+    opacity: 0.3;
+}
+hr, div {
+    margin: 20px;
+}
+
+div {
+    font-size: 28px;
+    font-family: 'Roboto Slab', serif;
+    text-decoration-style: solid;
+    font-weight: bold;
+}
